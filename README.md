@@ -13,4 +13,11 @@
   - Answer key questions
   - Conclusions and recommendations
 
+<b> Dataset rest_data - </b> contains:
+object_name — establishment name
+chain — chain establishment (TRUE/FALSE)
+object_type — establishment type
+address — address
+number — number of seats
+
 ## Link to Presentation <a href="https://drive.google.com/file/d/1RQ4pHRMyhtmq-U7-r8DF3qYS3Iq6zsiB/view?usp=sharing"> Here </a>
