@@ -9,6 +9,9 @@
   - Chain / not a chain of restaurants
 - <b> I used data of thousands restaurants in LA during 2019. </b> There are many types of restaurants: cafe, fast food, bakery, Pizza, Bar and regular restaurants.
 - <b> The project is divided to 3 parts: </b>
-Data Preprocessing & EDA
-Answer key questions
-Conclusions and recommendations
+  - Data Preprocessing & EDA
+  - Answer key questions
+  - Conclusions and recommendations
+
+## Link to Presentation
+https://drive.google.com/file/d/1RQ4pHRMyhtmq-U7-r8DF3qYS3Iq6zsiB/view?usp=sharing
