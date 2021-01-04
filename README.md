@@ -8,7 +8,7 @@
   - Number of seats in a restaurant
   - Chain / not a chain of restaurants
 - <b> I used data of thousands restaurants in LA during 2019. </b> There are many types of restaurants: cafe, fast food, bakery, Pizza, Bar and regular restaurants.
-- <b> The project is divided to 3 parts: </b>
+- <b> The project is divided to 3 parts:</b>
   - Data Preprocessing & EDA
   - Answer key questions
   - Conclusions and recommendations
